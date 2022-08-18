@@ -7,7 +7,7 @@
 **Odyssey as Lead dev**
 
 - 🧑‍🎓 I’m currently learning 
-**gRPC ans his implementation in Go and Java**
+**gRPC and his implementation in Go and Java**
 
 - 📫 How to reach me 
 **niromash37@gmail.com**
