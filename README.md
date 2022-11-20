@@ -11,7 +11,7 @@
 **gRPC and his implementation in Go and Java**
 
 - 📫 How to reach me 
-  - **niromash37@gmail.com**
+  - **matteo.chretien@supinfo.com**
   - Niromash#0275
 
 - 📗 Experiences and projects 
