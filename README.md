@@ -3,12 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niromash&label=Profile%20views&color=0e75b6&style=flat" alt="niromash" /> </p>
 
-- 🧑‍🔧 I’m currently working at 
-**Odyssey as Lead dev**<br/>
+- 🧑‍🔧 I’m currently working at
 **Tolnkee as DevOps and backend developer**
 
-- 🧑‍🎓 I’m currently learning 
-**gRPC and his implementation in Go and Java**
+- 🧑‍🎓 I’m currently studying at
+**SUPINFO**
 
 - 📫 How to reach me 
   - **matteo.chretien@supinfo.com**
