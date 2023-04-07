@@ -11,7 +11,7 @@
 
 - 📫 How to reach me 
   - **matteo.chretien@supinfo.com**
-  - Niromash#0275
+  - Discord: Niromash#0275
 
 - 📗 Experiences and projects 
   - Skript-Time as javascript developer that sold discord bots 
