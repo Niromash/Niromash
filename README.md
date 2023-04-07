@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mattéo</h1>
 <h3 align="center">French Software Engineer & DevOps lover</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niromash&label=Profile%20views&color=0e75b6&style=flat" alt="niromash" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=niromash&label=Profile%20views&color=0e75b6&style=flat" alt="niromash" /> </p>
 
 - 🧑‍🔧 I’m currently working at
 **Tolnkee as DevOps and backend developer**
