@@ -3,9 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=niromash&label=Profile%20views&color=0e75b6&style=flat" alt="niromash" /> </p>
 
-- 🧑‍🔧 I’m currently working at
-**Tolnkee as DevOps and backend developer**
-
 - 🧑‍🎓 I’m currently studying at
 **SUPINFO**
 
